@@ -5,7 +5,7 @@
 **Имя:** Никита  
 **Роль:** Fullstack / Backend / DevOps разработчик  
 **Локация:** *Россия, Тула*  
-**Почта:** *d.cuzya07@gmail.com*
+**Почта:** *d.cuzya07@gmail.com*  
 **Telegram:** *@n1k1tal0x*  
 
 ---
