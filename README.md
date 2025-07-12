@@ -77,7 +77,7 @@
 *2023 — 2026*
 
 - C# (WPF, ASP .NET, ADO .NET)  
-- DevOps (Linux, Docker)
+- DevOps (Linux, Docker, Nginx)
 - Postgres  
 - Web (Html, Css, JS, next.js)  
 
