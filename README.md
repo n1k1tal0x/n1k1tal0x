@@ -17,7 +17,7 @@
   `C++`, `C#`, `Python`, `JavaScript`, `HTML`, `CSS`
 
 - **Фреймворки и библиотеки:**  
-  `React`, `Vue.js`, `aiogram`, `Next.js`
+  `React`, `Vue.js`, `aiogram`, `Next.js`, `FastAPI`
 
 - **Инфраструктура и DevOps:**  
   `Git`, `Docker`, `CMake`, `Nginx`, `Linux`
@@ -30,7 +30,8 @@
 
 - **Прочее:**  
   - Настройка и деплой web-приложений  
-  - Опыт создания и настройки Telegram-ботов  
+  - Опыт создания и настройки Telegram-ботов
+  - Опыт в интеграции сайтов под MiniApp (WebApp) в Telegram
   - Опыт работы с серверной частью и фронтендом  
 
 ---
