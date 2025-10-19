@@ -3,7 +3,7 @@
 ## Общая информация
 
 **Имя:** Никита  
-**Роль:** Fullstack / Backend / DevOps разработчик  
+**Роль:** Fullstack / .Net dev / DevOps   
 **Локация:** *Россия, Тула*  
 **Почта:** *d.cuzya07@gmail.com*  
 **Номер телефона:** *+7 920 777 96-12*  
@@ -14,19 +14,19 @@
 ## Навыки
 
 - **Языки программирования:**  
-  `C++`, `C#`, `Python`, `JavaScript`, `HTML`, `CSS`
+  `C#`, `Python`, `JavaScript`, `HTML`, `CSS`
 
 - **Фреймворки и библиотеки:**  
-  `React`, `Vue.js`, `aiogram`, `Next.js`, `FastAPI`
+  `FastAPI`, `aiogram`, `MAUI`,`React`, `Vue.js`, `Next.js`
 
 - **Инфраструктура и DevOps:**  
-  `Git`, `Docker`, `CMake`, `Nginx`, `Linux`
+  `Git`, `Docker`, `Nginx`, `Caddy`, `Linux`
 
 - **CMS и SDK:**  
   `Directus`, `Directus SDK` 
 
 - **Базы данных:**  
-  `Postgres`, `MySql`
+  `Postgres`
 
 - **Прочее:**  
   - Настройка и деплой web-приложений  
@@ -38,11 +38,11 @@
 
 ## Опыт работы
 
-- Разработка и поддержка приложений на `C++`, `C#`, `Python`  
+- Разработка и поддержка консольных и gui приложений на `C++`, `C#`, `Python`  
 - Создание Telegram-ботов с использованием `aiogram` и `tgbot-cpp`
 - Вёрстка и клиентская логика на `React`, `Vue.js`  
 - Сборка проектов с помощью `CMake`, деплой с использованием `Docker`  
-- Настройка `Nginx`, взаимодействие с Linux-серверами  
+- Настройка `Nginx` и `Caddy`, взаимодействие с Linux-серверами  
 - Интеграция и работа с `Directus`
 
 ---
