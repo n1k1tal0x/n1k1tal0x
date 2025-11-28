@@ -17,7 +17,7 @@
   `C#`, `Python`, `JavaScript`, `HTML`, `CSS`
 
 - **Фреймворки и библиотеки:**  
-  `FastAPI`, `aiogram`, `MAUI`,`React`, `Vue.js`, `Next.js`
+  `FastAPI`, `aiogram`,`React`, `Vue.js`, `Next.js`
 
 - **Инфраструктура и DevOps:**  
   `Git`, `Docker`, `Nginx`, `Caddy`, `Linux`
