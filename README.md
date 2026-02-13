@@ -76,6 +76,7 @@
 ### **Wpf с webview**
 - [RustTweaker.com](https://rusttweaker.com)
 - Стек: `wpf`, `.net fraemwork`, `vue.js`
+- Роль: Пилю обновления и фикшу свои же баги
 ---
 
 ## Дополнительно
