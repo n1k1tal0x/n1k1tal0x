@@ -6,7 +6,6 @@
 **Роль:** Python dev / .Net dev / Fullstack       
 **Локация:** *Россия, Тула*  
 **Почта:** *d.cuzya07@gmail.com*  
-**Номер телефона:** *+7 920 777 96-12*  
 **Telegram:** *@n1k1tal0h*  
 
 ---
