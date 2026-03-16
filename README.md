@@ -10,6 +10,12 @@
 
 ---
 
+## GitHub статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n1k1tal0x&show_icons=true)
+
+---
+
 ## Навыки
 
 - **Языки программирования:**  
