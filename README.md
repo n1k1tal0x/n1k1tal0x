@@ -79,7 +79,7 @@
 
 ### **Твикер для Rust**
 - [RustTweaker.com](https://rusttweaker.com)
-- Стек: `wpf`, `.net fraemwork`, `vue.js`, `net 10`, `win api`, `graphql`, `REST`
+- Стек: `wpf`, `.net fraemwork`, `vue.js`, `net 10`, `win api`, `graphql`, `REST`, `git` (совместная разработка, ветки, пр и т.д.)
 - Много фикеш для игры
 - Роль: Пилю обновления и фикшу свои же баги)
 - Коммерческий опыт с 11.25 по текущий день)
